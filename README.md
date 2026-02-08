@@ -1,10 +1,10 @@
-🏠 Data IMMO – Analyse du marché immobilier avec SQL
-📌 Description du projet
+## 🏠Data IMMO – Analyse du marché immobilier avec SQL
+### 📌 Description du projet
 
 Le projet Data IMMO a pour objectif de créer et exploiter une base de données immobilière à partir des données open data des Demandes de Valeurs Foncières (DVF).
 Il permet d’analyser les transactions immobilières en France afin d’aider à la prise de décision dans le secteur immobilier.
 
-Ce projet couvre l’ensemble du cycle data :
+#### Ce projet couvre l’ensemble du cycle data :
 
 modélisation des données
 
@@ -14,7 +14,7 @@ importation des données
 
 requêtes SQL et analyses statistiques
 
-🎯 Objectifs
+#### 🎯 Objectifs
 
 Créer une base de données relationnelle normalisée
 
